@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7546fa412f2367247a3ec84671952d44
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - livesText: {instanceID: 0}
+  - arcMeteorPrefab: {fileID: 7006259183973395692, guid: 993587df8e0a26c4ebc304dbdc41ccb3, type: 3}
+  - explodingMeteorPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
